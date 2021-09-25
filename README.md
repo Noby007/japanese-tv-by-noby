@@ -1,15 +1,7 @@
 Country of the channel:
 Japan
 
-Channel Name:
-
-Fuji TV
-TV Tokyo
-Nippon TV
-TV Asahi
-NHK
-TV Japan
-TX Network
+all
 
 Channel Language:
 Japanese
